@@ -1,6 +1,6 @@
 import { Tabs, TabList, TabPanels, Tab, TabPanel, Avatar, Box, Image } from '@chakra-ui/react'
 import { QuestionOutlineIcon, TriangleDownIcon, SearchIcon, BellIcon, CopyIcon } from '@chakra-ui/icons'
-import logo from './../assets/logo.png'
+import logo from './../assets/Logo.png'
 
 function Navbar () {
   return (
